@@ -44,6 +44,10 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## implementei usando o Swagger nesse caso após instalar e executar precisa usar a seguinte url
+```bash
+http://localhost:3000/api
+```
 
 ## Test
 
